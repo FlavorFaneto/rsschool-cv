@@ -1,2 +1,2 @@
 # rsschool-cv
-[gh pages](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[gh pages](https://Aleksandr.github.io/rsschool-cv/cv)
